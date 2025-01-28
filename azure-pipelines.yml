@@ -11,7 +11,7 @@ variables:
   azureServiceConnectionId: 'd5b06159-2780-49d3-b673-a45efb43fa71'
 
   # Web app name
-  webAppName: 'test-cicd-py'
+  webAppName: 'paulch-cicd-py'
 
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
